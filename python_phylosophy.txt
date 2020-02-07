@@ -1,0 +1,9 @@
+Python Phylosophy
+-Beautiful is better than ugly
+-Explicit is better than implicit
+-Simple is better than complex
+-Comlex is better than complicated
+-Readability counts
+
+www.python.org/doc/
+Python 3 standardizes all data types around the same object model
